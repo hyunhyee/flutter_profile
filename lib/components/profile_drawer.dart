@@ -6,7 +6,7 @@ class ProfileDrawer extends StatelessWidget {
     return Container(
       width: 200,
       height: double.infinity,
-      color: Colors.grey,
+      color: Colors.amberAccent,
     );
   }
 }
