@@ -24,7 +24,7 @@ class ProfileHeader extends StatelessWidget {
   }
 
   Widget _buildHeaderProfile() {
-    return Row(
+    return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         Text(
