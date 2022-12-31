@@ -42,7 +42,7 @@ class ProfileHeader extends StatelessWidget {
         ),
         SizedBox(height: 10),
         Text(
-          "fourth member",
+          "Wedding peach",
           style: TextStyle(
             fontSize: 15,
           ),
