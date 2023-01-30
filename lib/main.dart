@@ -28,6 +28,7 @@ class ProfilePage extends StatelessWidget {
       appBar: _buildProfileAppBar(),
       body: Column(
         children: [
+          Text("추가추가"),
           SizedBox(height: 20),
           ProfileHeader(),
           SizedBox(height: 20),
